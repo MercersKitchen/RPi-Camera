@@ -2,12 +2,12 @@
 Beginning Repository for Software Controlled RPi Camera
 
 Table of Contents
-- <a href="">Tutorials used and referenced</a>
+- <a href="https://github.com/MercersKitchen/RPi-Camera">Tutorials used and referenced</a>
 
 ---
 
 # Website Tutorials used to Create this Project
-- Thanks to Graeme Dowdell for researching these tutorials
+- Thanks to Graeme Dowdell for researching these tutorials and guiding students through this project
 
 https://genesis.farm.bot/docs/monitor-farmbot-with-a-webcam
 - accessed 20190507
