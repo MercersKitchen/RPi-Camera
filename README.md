@@ -21,5 +21,7 @@ https://pimylifeup.com/raspberry-pi-webcam-server/
 
 # To Include
 
+URLs:
+- https://github.com/ccrisan/motioneyeos/wiki/Wifi-Preconfiguration
 
 ---
